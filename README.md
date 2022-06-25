@@ -1,3 +1,4 @@
+@@ -1,5 +0,0 @@
 # week-1-homework-1
 
 - Going all over what has been studied including code examples in the class. Do not forget to commit the initial and final work.
